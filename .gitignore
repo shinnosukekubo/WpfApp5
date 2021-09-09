@@ -1,0 +1,13 @@
+WapProjTemplate1/bin
+WapProjTemplate1/obj
+WapProjTemplate1/AppPackages
+
+WapProjTemplate1.Demo/bin
+WapProjTemplate1.Demo/obj
+WapProjTemplate1.Demo/AppPackages
+
+WpfApp5/bin
+WpfApp5/obj
+
+*.user
+*.cache
